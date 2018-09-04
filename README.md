@@ -2,4 +2,4 @@
 https://chrisprieto.github.io/GIPHY/
 
 
-there is an issue where the app works locally but not the link, i have uploaded a video showing it working
+there is an issue where the giphs take a few moments to load. 
